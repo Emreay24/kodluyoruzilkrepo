@@ -1,0 +1,12 @@
+#.sass-cache
+#builds/**/images/*
+#*.ogg
+#*.mp3
+#*.mp4
+#*.png
+#*.jpeg
+*.psd
+
+*.exe
+*.test
+*.prof
