@@ -7,4 +7,4 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ### amacım
 * yazılıma başlangic yapmak
 * daha fazla yazilim dili ogrenmek
-*kendime uygun is bulabilmek
+* kendime uygun is bulabilmek
